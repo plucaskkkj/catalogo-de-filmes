@@ -1,5 +1,5 @@
 body {
-    background: rgb(68, 8, 8);
+    background: rgb(153, 13, 13);
     color: whitesmoke;
 }
 
@@ -13,8 +13,13 @@ header{
 
 section {
      display: flex;
-     background-color: aquamarine;
+     background-color: rgb(255, 255, 255);
      padding-bottom: 80px;
      margin-top: 20px;
      justify-content: center;
+}
+
+.chamada-texto{
+
+
 }
